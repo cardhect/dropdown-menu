@@ -1,5 +1,5 @@
 {
-  "name": "drop-down-menu",
+  "name": "@cardhect/drop-down-menu",
   "version": "1.0.0",
   "description": "Drop down menu",
   "main": "script.js",
@@ -10,5 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.26.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardhect/dropdown-menu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cardhect/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/cardhect/dropdown-menu#readme"
 }
